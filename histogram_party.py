@@ -24,7 +24,7 @@ parties = [
     'EVP'
 ]
 
-with open('Mitglieder.csv') as csvfile:
+with open('data/Mitglieder.csv') as csvfile:
     csvreader = csv.reader(csvfile, delimiter=';')
     i = 0
     for row in csvreader:

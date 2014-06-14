@@ -40,7 +40,7 @@ class UnicodeReader:
     def __iter__(self):
         return self
 
-with open('Mitglieder.csv') as csvfile:
+with open('data/Mitglieder.csv') as csvfile:
     csvreader = UnicodeReader(csvfile, delimiter=';')
     i = 0
     for row in csvreader:

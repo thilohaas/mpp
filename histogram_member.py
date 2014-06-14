@@ -8,7 +8,7 @@ rank = comm.Get_rank()
 size = comm.Get_size()
 
 data = []
-with open('Mitglieder.csv') as csvfile:
+with open('data/Mitglieder.csv') as csvfile:
     csvreader = csv.reader(csvfile, delimiter=';')
     for row in csvreader:
         data.append(
