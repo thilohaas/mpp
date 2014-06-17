@@ -8,8 +8,8 @@ processes           = 4
 numberOfParticles   = 2**16
 maxSpace            = 2**16
 chunkSizes          = 2**4
-randomSample        = 2**8
-randomLoops         = 2**8
+randomSample        = 2**10
+randomLoops         = 2**10
 
 def chunks(l, n):
     for i in xrange(0, len(l), n):
@@ -105,9 +105,10 @@ print "Center of the mass:", centerOfMass
 print "Assignment Part 2 (b)"
 
 for i in xrange(randomLoops):
+    print "Assignment Part 2 (b) - round ", i
     randParticles = random.sample(particles, randomSample)
     result = mp_calculate_mass_center(pool, randParticles)
-    #print result
+    print result
 
 
 ################################################################################################################################
@@ -117,7 +118,7 @@ print "Assignment Part 2 (c)"
 
 randParticles = random.sample(particles, randomSample)
 resultC = mp_shift_to_center(pool, randParticles, centerOfMass)
-#print resultC
+print resultC
 
 
 ############################################################################################
@@ -125,4 +126,4 @@ resultC = mp_shift_to_center(pool, randParticles, centerOfMass)
 ############################################################################################
 print "Assignment Part 2 (d)"
 
-print mp_find_particles_within_range(pool, particles, (32669, 32824, 32726), 1000)
+print mp_find_particles_within_range(pool, particles, (32669, 32824, 32726), 1500)

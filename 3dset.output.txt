@@ -1,0 +1,2064 @@
+Assignment Part 2 (a)
+Center of the mass: (32722, 32641, 32756)
+Assignment Part 2 (b)
+Assignment Part 2 (b) - round  0
+(31761, 32631, 33662)
+Assignment Part 2 (b) - round  1
+(33288, 32345, 32585)
+Assignment Part 2 (b) - round  2
+(32640, 31846, 33666)
+Assignment Part 2 (b) - round  3
+(32340, 32261, 33216)
+Assignment Part 2 (b) - round  4
+(32192, 33264, 33840)
+Assignment Part 2 (b) - round  5
+(33833, 31690, 32889)
+Assignment Part 2 (b) - round  6
+(33241, 32171, 32424)
+Assignment Part 2 (b) - round  7
+(32217, 32267, 33151)
+Assignment Part 2 (b) - round  8
+(32667, 31364, 32951)
+Assignment Part 2 (b) - round  9
+(32979, 32557, 33613)
+Assignment Part 2 (b) - round  10
+(32575, 32282, 32670)
+Assignment Part 2 (b) - round  11
+(32950, 32465, 33119)
+Assignment Part 2 (b) - round  12
+(32732, 32870, 33096)
+Assignment Part 2 (b) - round  13
+(32016, 33191, 32327)
+Assignment Part 2 (b) - round  14
+(33090, 32611, 31906)
+Assignment Part 2 (b) - round  15
+(32574, 32375, 32795)
+Assignment Part 2 (b) - round  16
+(32292, 33803, 33097)
+Assignment Part 2 (b) - round  17
+(33039, 32262, 31919)
+Assignment Part 2 (b) - round  18
+(33331, 31323, 33370)
+Assignment Part 2 (b) - round  19
+(33397, 32125, 32896)
+Assignment Part 2 (b) - round  20
+(32682, 31804, 32904)
+Assignment Part 2 (b) - round  21
+(33167, 32398, 32666)
+Assignment Part 2 (b) - round  22
+(32179, 32134, 33109)
+Assignment Part 2 (b) - round  23
+(33917, 32317, 32526)
+Assignment Part 2 (b) - round  24
+(33023, 31160, 33304)
+Assignment Part 2 (b) - round  25
+(32943, 32543, 32479)
+Assignment Part 2 (b) - round  26
+(33818, 31892, 32950)
+Assignment Part 2 (b) - round  27
+(32708, 32341, 33121)
+Assignment Part 2 (b) - round  28
+(32385, 34062, 32690)
+Assignment Part 2 (b) - round  29
+(32533, 31919, 32662)
+Assignment Part 2 (b) - round  30
+(32853, 33680, 32269)
+Assignment Part 2 (b) - round  31
+(32351, 32749, 32800)
+Assignment Part 2 (b) - round  32
+(32205, 31167, 32723)
+Assignment Part 2 (b) - round  33
+(32709, 32241, 31791)
+Assignment Part 2 (b) - round  34
+(32506, 32043, 32843)
+Assignment Part 2 (b) - round  35
+(33437, 33363, 32636)
+Assignment Part 2 (b) - round  36
+(32900, 33124, 32191)
+Assignment Part 2 (b) - round  37
+(32435, 32940, 33343)
+Assignment Part 2 (b) - round  38
+(33093, 31680, 32605)
+Assignment Part 2 (b) - round  39
+(32250, 32826, 33121)
+Assignment Part 2 (b) - round  40
+(32023, 33241, 33230)
+Assignment Part 2 (b) - round  41
+(33107, 32639, 31795)
+Assignment Part 2 (b) - round  42
+(32651, 32745, 32249)
+Assignment Part 2 (b) - round  43
+(32975, 31840, 32304)
+Assignment Part 2 (b) - round  44
+(33339, 33369, 32770)
+Assignment Part 2 (b) - round  45
+(33082, 32377, 32791)
+Assignment Part 2 (b) - round  46
+(33238, 32667, 31370)
+Assignment Part 2 (b) - round  47
+(31974, 32254, 33717)
+Assignment Part 2 (b) - round  48
+(32099, 32421, 32575)
+Assignment Part 2 (b) - round  49
+(31756, 32591, 32630)
+Assignment Part 2 (b) - round  50
+(33418, 31857, 32258)
+Assignment Part 2 (b) - round  51
+(32236, 33084, 31678)
+Assignment Part 2 (b) - round  52
+(32743, 33251, 32359)
+Assignment Part 2 (b) - round  53
+(32740, 31994, 33511)
+Assignment Part 2 (b) - round  54
+(31079, 33231, 32523)
+Assignment Part 2 (b) - round  55
+(34280, 31454, 33068)
+Assignment Part 2 (b) - round  56
+(32473, 33317, 32979)
+Assignment Part 2 (b) - round  57
+(33912, 33198, 32118)
+Assignment Part 2 (b) - round  58
+(31960, 32299, 32412)
+Assignment Part 2 (b) - round  59
+(33403, 32284, 32691)
+Assignment Part 2 (b) - round  60
+(32333, 32478, 32542)
+Assignment Part 2 (b) - round  61
+(32530, 31768, 33040)
+Assignment Part 2 (b) - round  62
+(33320, 32346, 32341)
+Assignment Part 2 (b) - round  63
+(32285, 32467, 32735)
+Assignment Part 2 (b) - round  64
+(33219, 32791, 33364)
+Assignment Part 2 (b) - round  65
+(32917, 33285, 32639)
+Assignment Part 2 (b) - round  66
+(32563, 32702, 32276)
+Assignment Part 2 (b) - round  67
+(32416, 31560, 33193)
+Assignment Part 2 (b) - round  68
+(32835, 32827, 32685)
+Assignment Part 2 (b) - round  69
+(32877, 33151, 31748)
+Assignment Part 2 (b) - round  70
+(31798, 31975, 33092)
+Assignment Part 2 (b) - round  71
+(32498, 31776, 32452)
+Assignment Part 2 (b) - round  72
+(32541, 32708, 32787)
+Assignment Part 2 (b) - round  73
+(32736, 32671, 32949)
+Assignment Part 2 (b) - round  74
+(31610, 32273, 31859)
+Assignment Part 2 (b) - round  75
+(32895, 32439, 33546)
+Assignment Part 2 (b) - round  76
+(32900, 31968, 33096)
+Assignment Part 2 (b) - round  77
+(33018, 32422, 32567)
+Assignment Part 2 (b) - round  78
+(33028, 33082, 33137)
+Assignment Part 2 (b) - round  79
+(32210, 33379, 33169)
+Assignment Part 2 (b) - round  80
+(32420, 32810, 32380)
+Assignment Part 2 (b) - round  81
+(32741, 33212, 32841)
+Assignment Part 2 (b) - round  82
+(32004, 32562, 32616)
+Assignment Part 2 (b) - round  83
+(33047, 31976, 33304)
+Assignment Part 2 (b) - round  84
+(33155, 31637, 33260)
+Assignment Part 2 (b) - round  85
+(33302, 33249, 33202)
+Assignment Part 2 (b) - round  86
+(32463, 33020, 34067)
+Assignment Part 2 (b) - round  87
+(32555, 33344, 31882)
+Assignment Part 2 (b) - round  88
+(32555, 32623, 32641)
+Assignment Part 2 (b) - round  89
+(32375, 33286, 34028)
+Assignment Part 2 (b) - round  90
+(31741, 32488, 32649)
+Assignment Part 2 (b) - round  91
+(32024, 32157, 31859)
+Assignment Part 2 (b) - round  92
+(32806, 33013, 33142)
+Assignment Part 2 (b) - round  93
+(33021, 32463, 33787)
+Assignment Part 2 (b) - round  94
+(33063, 32609, 32606)
+Assignment Part 2 (b) - round  95
+(33076, 33009, 32830)
+Assignment Part 2 (b) - round  96
+(31118, 33120, 33168)
+Assignment Part 2 (b) - round  97
+(33545, 32785, 33320)
+Assignment Part 2 (b) - round  98
+(33188, 32497, 33359)
+Assignment Part 2 (b) - round  99
+(32988, 33135, 32739)
+Assignment Part 2 (b) - round  100
+(32623, 32791, 32778)
+Assignment Part 2 (b) - round  101
+(32303, 32375, 32859)
+Assignment Part 2 (b) - round  102
+(32845, 31523, 32122)
+Assignment Part 2 (b) - round  103
+(33030, 32931, 32940)
+Assignment Part 2 (b) - round  104
+(32677, 32903, 32355)
+Assignment Part 2 (b) - round  105
+(32959, 32532, 33573)
+Assignment Part 2 (b) - round  106
+(32371, 32896, 32421)
+Assignment Part 2 (b) - round  107
+(31908, 32291, 31874)
+Assignment Part 2 (b) - round  108
+(31924, 33286, 32068)
+Assignment Part 2 (b) - round  109
+(32658, 31693, 31958)
+Assignment Part 2 (b) - round  110
+(32384, 31441, 32408)
+Assignment Part 2 (b) - round  111
+(32782, 33088, 32505)
+Assignment Part 2 (b) - round  112
+(32581, 33576, 33257)
+Assignment Part 2 (b) - round  113
+(32961, 33169, 32741)
+Assignment Part 2 (b) - round  114
+(32483, 32519, 33067)
+Assignment Part 2 (b) - round  115
+(34011, 32454, 32788)
+Assignment Part 2 (b) - round  116
+(32462, 33399, 32774)
+Assignment Part 2 (b) - round  117
+(32772, 32346, 31875)
+Assignment Part 2 (b) - round  118
+(32650, 31447, 32048)
+Assignment Part 2 (b) - round  119
+(32479, 32435, 33100)
+Assignment Part 2 (b) - round  120
+(32087, 34013, 32713)
+Assignment Part 2 (b) - round  121
+(32229, 32443, 31793)
+Assignment Part 2 (b) - round  122
+(33735, 32660, 33094)
+Assignment Part 2 (b) - round  123
+(31939, 32675, 32813)
+Assignment Part 2 (b) - round  124
+(32966, 32531, 33624)
+Assignment Part 2 (b) - round  125
+(31815, 32812, 32807)
+Assignment Part 2 (b) - round  126
+(32994, 32210, 32869)
+Assignment Part 2 (b) - round  127
+(32963, 32292, 33557)
+Assignment Part 2 (b) - round  128
+(32685, 32308, 32681)
+Assignment Part 2 (b) - round  129
+(33849, 32494, 32107)
+Assignment Part 2 (b) - round  130
+(33319, 32999, 33178)
+Assignment Part 2 (b) - round  131
+(32599, 32354, 32449)
+Assignment Part 2 (b) - round  132
+(32294, 32300, 32665)
+Assignment Part 2 (b) - round  133
+(33631, 33063, 33190)
+Assignment Part 2 (b) - round  134
+(33061, 32905, 33074)
+Assignment Part 2 (b) - round  135
+(32173, 32580, 32412)
+Assignment Part 2 (b) - round  136
+(32770, 32524, 33357)
+Assignment Part 2 (b) - round  137
+(32066, 33065, 32999)
+Assignment Part 2 (b) - round  138
+(33380, 33838, 32840)
+Assignment Part 2 (b) - round  139
+(32457, 32657, 32672)
+Assignment Part 2 (b) - round  140
+(32146, 33379, 33586)
+Assignment Part 2 (b) - round  141
+(32236, 33873, 32907)
+Assignment Part 2 (b) - round  142
+(32804, 33037, 32615)
+Assignment Part 2 (b) - round  143
+(32939, 32753, 32715)
+Assignment Part 2 (b) - round  144
+(33546, 32879, 32432)
+Assignment Part 2 (b) - round  145
+(32298, 31976, 32250)
+Assignment Part 2 (b) - round  146
+(33186, 31886, 33152)
+Assignment Part 2 (b) - round  147
+(32687, 33039, 32205)
+Assignment Part 2 (b) - round  148
+(33221, 32770, 32488)
+Assignment Part 2 (b) - round  149
+(32987, 33332, 32444)
+Assignment Part 2 (b) - round  150
+(32458, 32725, 32767)
+Assignment Part 2 (b) - round  151
+(32567, 32593, 31927)
+Assignment Part 2 (b) - round  152
+(32715, 33318, 32857)
+Assignment Part 2 (b) - round  153
+(34042, 33347, 32513)
+Assignment Part 2 (b) - round  154
+(32875, 33275, 32736)
+Assignment Part 2 (b) - round  155
+(32957, 32570, 31936)
+Assignment Part 2 (b) - round  156
+(32320, 31119, 32667)
+Assignment Part 2 (b) - round  157
+(31637, 32863, 32608)
+Assignment Part 2 (b) - round  158
+(31904, 33012, 33721)
+Assignment Part 2 (b) - round  159
+(32753, 32876, 32760)
+Assignment Part 2 (b) - round  160
+(33893, 32235, 33756)
+Assignment Part 2 (b) - round  161
+(32711, 32777, 33021)
+Assignment Part 2 (b) - round  162
+(32163, 33344, 32259)
+Assignment Part 2 (b) - round  163
+(32448, 32402, 33597)
+Assignment Part 2 (b) - round  164
+(32810, 32275, 33773)
+Assignment Part 2 (b) - round  165
+(32641, 33318, 33345)
+Assignment Part 2 (b) - round  166
+(32693, 32202, 33023)
+Assignment Part 2 (b) - round  167
+(33224, 32786, 33235)
+Assignment Part 2 (b) - round  168
+(32500, 32528, 32641)
+Assignment Part 2 (b) - round  169
+(32135, 33033, 33079)
+Assignment Part 2 (b) - round  170
+(32453, 32728, 32646)
+Assignment Part 2 (b) - round  171
+(32553, 34085, 33055)
+Assignment Part 2 (b) - round  172
+(32792, 33271, 33015)
+Assignment Part 2 (b) - round  173
+(32934, 32493, 32177)
+Assignment Part 2 (b) - round  174
+(32758, 32553, 32401)
+Assignment Part 2 (b) - round  175
+(33646, 31689, 32582)
+Assignment Part 2 (b) - round  176
+(33273, 32016, 32957)
+Assignment Part 2 (b) - round  177
+(32727, 31030, 33242)
+Assignment Part 2 (b) - round  178
+(32650, 33141, 33989)
+Assignment Part 2 (b) - round  179
+(31943, 32709, 33011)
+Assignment Part 2 (b) - round  180
+(32726, 32512, 32070)
+Assignment Part 2 (b) - round  181
+(32588, 33297, 32799)
+Assignment Part 2 (b) - round  182
+(31587, 32015, 33805)
+Assignment Part 2 (b) - round  183
+(32642, 32805, 32669)
+Assignment Part 2 (b) - round  184
+(32908, 33140, 33004)
+Assignment Part 2 (b) - round  185
+(32900, 31957, 32023)
+Assignment Part 2 (b) - round  186
+(32803, 32072, 33945)
+Assignment Part 2 (b) - round  187
+(32179, 33315, 33433)
+Assignment Part 2 (b) - round  188
+(32915, 32262, 32641)
+Assignment Part 2 (b) - round  189
+(32515, 31911, 32717)
+Assignment Part 2 (b) - round  190
+(32001, 32618, 32762)
+Assignment Part 2 (b) - round  191
+(32956, 32731, 33045)
+Assignment Part 2 (b) - round  192
+(32628, 32027, 32850)
+Assignment Part 2 (b) - round  193
+(33098, 32123, 33540)
+Assignment Part 2 (b) - round  194
+(33189, 32235, 32079)
+Assignment Part 2 (b) - round  195
+(32899, 32979, 32655)
+Assignment Part 2 (b) - round  196
+(33252, 32259, 33182)
+Assignment Part 2 (b) - round  197
+(32570, 32953, 31871)
+Assignment Part 2 (b) - round  198
+(33228, 32346, 32950)
+Assignment Part 2 (b) - round  199
+(33111, 32648, 33611)
+Assignment Part 2 (b) - round  200
+(33178, 32732, 33404)
+Assignment Part 2 (b) - round  201
+(32361, 32869, 33088)
+Assignment Part 2 (b) - round  202
+(33862, 33170, 33753)
+Assignment Part 2 (b) - round  203
+(32839, 32113, 33387)
+Assignment Part 2 (b) - round  204
+(32657, 32578, 32754)
+Assignment Part 2 (b) - round  205
+(32832, 31627, 31843)
+Assignment Part 2 (b) - round  206
+(31382, 32663, 33829)
+Assignment Part 2 (b) - round  207
+(32290, 33118, 32863)
+Assignment Part 2 (b) - round  208
+(32811, 33695, 32288)
+Assignment Part 2 (b) - round  209
+(32929, 32463, 32429)
+Assignment Part 2 (b) - round  210
+(33653, 33281, 33215)
+Assignment Part 2 (b) - round  211
+(33103, 33709, 32765)
+Assignment Part 2 (b) - round  212
+(33069, 31985, 33273)
+Assignment Part 2 (b) - round  213
+(33285, 32970, 32009)
+Assignment Part 2 (b) - round  214
+(33858, 33033, 31989)
+Assignment Part 2 (b) - round  215
+(32669, 32228, 32792)
+Assignment Part 2 (b) - round  216
+(32732, 33387, 33295)
+Assignment Part 2 (b) - round  217
+(33076, 33572, 33426)
+Assignment Part 2 (b) - round  218
+(34052, 32331, 32992)
+Assignment Part 2 (b) - round  219
+(30975, 32931, 32647)
+Assignment Part 2 (b) - round  220
+(33188, 32935, 31300)
+Assignment Part 2 (b) - round  221
+(32745, 32159, 32968)
+Assignment Part 2 (b) - round  222
+(32587, 33284, 31996)
+Assignment Part 2 (b) - round  223
+(32123, 33067, 33343)
+Assignment Part 2 (b) - round  224
+(33004, 32375, 33236)
+Assignment Part 2 (b) - round  225
+(33531, 32099, 32498)
+Assignment Part 2 (b) - round  226
+(32071, 31908, 32498)
+Assignment Part 2 (b) - round  227
+(32875, 32117, 32474)
+Assignment Part 2 (b) - round  228
+(33758, 32249, 32565)
+Assignment Part 2 (b) - round  229
+(32380, 33275, 31719)
+Assignment Part 2 (b) - round  230
+(33533, 33207, 33438)
+Assignment Part 2 (b) - round  231
+(33357, 33142, 32135)
+Assignment Part 2 (b) - round  232
+(32853, 33178, 32815)
+Assignment Part 2 (b) - round  233
+(32730, 32904, 32800)
+Assignment Part 2 (b) - round  234
+(33121, 31949, 32716)
+Assignment Part 2 (b) - round  235
+(32853, 32719, 33281)
+Assignment Part 2 (b) - round  236
+(33017, 33049, 32538)
+Assignment Part 2 (b) - round  237
+(32675, 33790, 33128)
+Assignment Part 2 (b) - round  238
+(33169, 32814, 33335)
+Assignment Part 2 (b) - round  239
+(32799, 32628, 32955)
+Assignment Part 2 (b) - round  240
+(33023, 33564, 32523)
+Assignment Part 2 (b) - round  241
+(32382, 31913, 32147)
+Assignment Part 2 (b) - round  242
+(32660, 31513, 33588)
+Assignment Part 2 (b) - round  243
+(32710, 32248, 32680)
+Assignment Part 2 (b) - round  244
+(32092, 31907, 32868)
+Assignment Part 2 (b) - round  245
+(32984, 31514, 32426)
+Assignment Part 2 (b) - round  246
+(31850, 31703, 32577)
+Assignment Part 2 (b) - round  247
+(32855, 32667, 31566)
+Assignment Part 2 (b) - round  248
+(32443, 32180, 32204)
+Assignment Part 2 (b) - round  249
+(32793, 33289, 31346)
+Assignment Part 2 (b) - round  250
+(32365, 32436, 32193)
+Assignment Part 2 (b) - round  251
+(33442, 32918, 32344)
+Assignment Part 2 (b) - round  252
+(33839, 32257, 32683)
+Assignment Part 2 (b) - round  253
+(32802, 32694, 32398)
+Assignment Part 2 (b) - round  254
+(33976, 32647, 33225)
+Assignment Part 2 (b) - round  255
+(32237, 32502, 32900)
+Assignment Part 2 (b) - round  256
+(32318, 32271, 32192)
+Assignment Part 2 (b) - round  257
+(32997, 33608, 31739)
+Assignment Part 2 (b) - round  258
+(33596, 33100, 33472)
+Assignment Part 2 (b) - round  259
+(33461, 32397, 32070)
+Assignment Part 2 (b) - round  260
+(32982, 32565, 33325)
+Assignment Part 2 (b) - round  261
+(32346, 33387, 32237)
+Assignment Part 2 (b) - round  262
+(33551, 33260, 33554)
+Assignment Part 2 (b) - round  263
+(31742, 32343, 32449)
+Assignment Part 2 (b) - round  264
+(32462, 33076, 31913)
+Assignment Part 2 (b) - round  265
+(32512, 32329, 32472)
+Assignment Part 2 (b) - round  266
+(32677, 31663, 31623)
+Assignment Part 2 (b) - round  267
+(33468, 32256, 32805)
+Assignment Part 2 (b) - round  268
+(33003, 33260, 33198)
+Assignment Part 2 (b) - round  269
+(32055, 33319, 32533)
+Assignment Part 2 (b) - round  270
+(32204, 33237, 32591)
+Assignment Part 2 (b) - round  271
+(32228, 32069, 33288)
+Assignment Part 2 (b) - round  272
+(33546, 33967, 32610)
+Assignment Part 2 (b) - round  273
+(32748, 32292, 32033)
+Assignment Part 2 (b) - round  274
+(33028, 33436, 32160)
+Assignment Part 2 (b) - round  275
+(32608, 32559, 34144)
+Assignment Part 2 (b) - round  276
+(33664, 32327, 32525)
+Assignment Part 2 (b) - round  277
+(32964, 32748, 33426)
+Assignment Part 2 (b) - round  278
+(32937, 33462, 31905)
+Assignment Part 2 (b) - round  279
+(32738, 32817, 32060)
+Assignment Part 2 (b) - round  280
+(32400, 32311, 31997)
+Assignment Part 2 (b) - round  281
+(32676, 33242, 32290)
+Assignment Part 2 (b) - round  282
+(32795, 32754, 32743)
+Assignment Part 2 (b) - round  283
+(33002, 32279, 32653)
+Assignment Part 2 (b) - round  284
+(33473, 32451, 32298)
+Assignment Part 2 (b) - round  285
+(32305, 33130, 33552)
+Assignment Part 2 (b) - round  286
+(32485, 32651, 32853)
+Assignment Part 2 (b) - round  287
+(31918, 32922, 33458)
+Assignment Part 2 (b) - round  288
+(32551, 32511, 33299)
+Assignment Part 2 (b) - round  289
+(32113, 32741, 33091)
+Assignment Part 2 (b) - round  290
+(32804, 33227, 33743)
+Assignment Part 2 (b) - round  291
+(33491, 33728, 32932)
+Assignment Part 2 (b) - round  292
+(33366, 32393, 32312)
+Assignment Part 2 (b) - round  293
+(32143, 32873, 33042)
+Assignment Part 2 (b) - round  294
+(32591, 32373, 32634)
+Assignment Part 2 (b) - round  295
+(31971, 33257, 32897)
+Assignment Part 2 (b) - round  296
+(32730, 33522, 33124)
+Assignment Part 2 (b) - round  297
+(32659, 32281, 33119)
+Assignment Part 2 (b) - round  298
+(32471, 32566, 32971)
+Assignment Part 2 (b) - round  299
+(32255, 31552, 33224)
+Assignment Part 2 (b) - round  300
+(32012, 32834, 32983)
+Assignment Part 2 (b) - round  301
+(31609, 32286, 32743)
+Assignment Part 2 (b) - round  302
+(32583, 32417, 33553)
+Assignment Part 2 (b) - round  303
+(32740, 31722, 32200)
+Assignment Part 2 (b) - round  304
+(32769, 32490, 32420)
+Assignment Part 2 (b) - round  305
+(32302, 32026, 33286)
+Assignment Part 2 (b) - round  306
+(32377, 34115, 31247)
+Assignment Part 2 (b) - round  307
+(32885, 32530, 32508)
+Assignment Part 2 (b) - round  308
+(32376, 32749, 33211)
+Assignment Part 2 (b) - round  309
+(33363, 32519, 33210)
+Assignment Part 2 (b) - round  310
+(33274, 33791, 32776)
+Assignment Part 2 (b) - round  311
+(33209, 33150, 32183)
+Assignment Part 2 (b) - round  312
+(32756, 33127, 32495)
+Assignment Part 2 (b) - round  313
+(31317, 32452, 32898)
+Assignment Part 2 (b) - round  314
+(32326, 33959, 32717)
+Assignment Part 2 (b) - round  315
+(33454, 32076, 32746)
+Assignment Part 2 (b) - round  316
+(32526, 32183, 31915)
+Assignment Part 2 (b) - round  317
+(32310, 32979, 33098)
+Assignment Part 2 (b) - round  318
+(31666, 32294, 32955)
+Assignment Part 2 (b) - round  319
+(32899, 32702, 33513)
+Assignment Part 2 (b) - round  320
+(33526, 31961, 32099)
+Assignment Part 2 (b) - round  321
+(32952, 32160, 31939)
+Assignment Part 2 (b) - round  322
+(33113, 32341, 31916)
+Assignment Part 2 (b) - round  323
+(31384, 33203, 32535)
+Assignment Part 2 (b) - round  324
+(33010, 33600, 33361)
+Assignment Part 2 (b) - round  325
+(32896, 33038, 32721)
+Assignment Part 2 (b) - round  326
+(32499, 33067, 32242)
+Assignment Part 2 (b) - round  327
+(33647, 32253, 32765)
+Assignment Part 2 (b) - round  328
+(32351, 32917, 32172)
+Assignment Part 2 (b) - round  329
+(33265, 32166, 32979)
+Assignment Part 2 (b) - round  330
+(32830, 31857, 32228)
+Assignment Part 2 (b) - round  331
+(32759, 32343, 32916)
+Assignment Part 2 (b) - round  332
+(32383, 32098, 32870)
+Assignment Part 2 (b) - round  333
+(32827, 32938, 32873)
+Assignment Part 2 (b) - round  334
+(33259, 32615, 32286)
+Assignment Part 2 (b) - round  335
+(32167, 32584, 32805)
+Assignment Part 2 (b) - round  336
+(33118, 33980, 32507)
+Assignment Part 2 (b) - round  337
+(33428, 32481, 32530)
+Assignment Part 2 (b) - round  338
+(32899, 32719, 32693)
+Assignment Part 2 (b) - round  339
+(32776, 32822, 32598)
+Assignment Part 2 (b) - round  340
+(32298, 32498, 32051)
+Assignment Part 2 (b) - round  341
+(32334, 33568, 32761)
+Assignment Part 2 (b) - round  342
+(33550, 31566, 33181)
+Assignment Part 2 (b) - round  343
+(32043, 32532, 32355)
+Assignment Part 2 (b) - round  344
+(32191, 32963, 32462)
+Assignment Part 2 (b) - round  345
+(33689, 32717, 32864)
+Assignment Part 2 (b) - round  346
+(33188, 32388, 31871)
+Assignment Part 2 (b) - round  347
+(32705, 31190, 32333)
+Assignment Part 2 (b) - round  348
+(32996, 32441, 31694)
+Assignment Part 2 (b) - round  349
+(33077, 33131, 32149)
+Assignment Part 2 (b) - round  350
+(32369, 32554, 32049)
+Assignment Part 2 (b) - round  351
+(32660, 33547, 31816)
+Assignment Part 2 (b) - round  352
+(33763, 32504, 32751)
+Assignment Part 2 (b) - round  353
+(32414, 32435, 32681)
+Assignment Part 2 (b) - round  354
+(32404, 32656, 32749)
+Assignment Part 2 (b) - round  355
+(33846, 32504, 32533)
+Assignment Part 2 (b) - round  356
+(33398, 32005, 32993)
+Assignment Part 2 (b) - round  357
+(32368, 32052, 32459)
+Assignment Part 2 (b) - round  358
+(32103, 32585, 33231)
+Assignment Part 2 (b) - round  359
+(33169, 33790, 32060)
+Assignment Part 2 (b) - round  360
+(32212, 32649, 32275)
+Assignment Part 2 (b) - round  361
+(32090, 32048, 33668)
+Assignment Part 2 (b) - round  362
+(32191, 31732, 32399)
+Assignment Part 2 (b) - round  363
+(32232, 33514, 31790)
+Assignment Part 2 (b) - round  364
+(33370, 32983, 33569)
+Assignment Part 2 (b) - round  365
+(32974, 33028, 32708)
+Assignment Part 2 (b) - round  366
+(32660, 31775, 31425)
+Assignment Part 2 (b) - round  367
+(32355, 32615, 33784)
+Assignment Part 2 (b) - round  368
+(32044, 33079, 33135)
+Assignment Part 2 (b) - round  369
+(31932, 32841, 33267)
+Assignment Part 2 (b) - round  370
+(32584, 32686, 33137)
+Assignment Part 2 (b) - round  371
+(32209, 31951, 32918)
+Assignment Part 2 (b) - round  372
+(31092, 33938, 33108)
+Assignment Part 2 (b) - round  373
+(32315, 32725, 32406)
+Assignment Part 2 (b) - round  374
+(33031, 32651, 32365)
+Assignment Part 2 (b) - round  375
+(33501, 32176, 33501)
+Assignment Part 2 (b) - round  376
+(32867, 33138, 32063)
+Assignment Part 2 (b) - round  377
+(32107, 33752, 32623)
+Assignment Part 2 (b) - round  378
+(32481, 32576, 33161)
+Assignment Part 2 (b) - round  379
+(32008, 33340, 32682)
+Assignment Part 2 (b) - round  380
+(34257, 31631, 32977)
+Assignment Part 2 (b) - round  381
+(33184, 32750, 32020)
+Assignment Part 2 (b) - round  382
+(33068, 34103, 32692)
+Assignment Part 2 (b) - round  383
+(32057, 32476, 32535)
+Assignment Part 2 (b) - round  384
+(33423, 33336, 32581)
+Assignment Part 2 (b) - round  385
+(32749, 32840, 31584)
+Assignment Part 2 (b) - round  386
+(32151, 33061, 32355)
+Assignment Part 2 (b) - round  387
+(32045, 32871, 32490)
+Assignment Part 2 (b) - round  388
+(33033, 31846, 33192)
+Assignment Part 2 (b) - round  389
+(33381, 32135, 31974)
+Assignment Part 2 (b) - round  390
+(32061, 32907, 33454)
+Assignment Part 2 (b) - round  391
+(33785, 32072, 33179)
+Assignment Part 2 (b) - round  392
+(33538, 32617, 33618)
+Assignment Part 2 (b) - round  393
+(33033, 33045, 32045)
+Assignment Part 2 (b) - round  394
+(33218, 32761, 33437)
+Assignment Part 2 (b) - round  395
+(32071, 32293, 32738)
+Assignment Part 2 (b) - round  396
+(32712, 33414, 32810)
+Assignment Part 2 (b) - round  397
+(33158, 32638, 32533)
+Assignment Part 2 (b) - round  398
+(32290, 32204, 33294)
+Assignment Part 2 (b) - round  399
+(33425, 31972, 32660)
+Assignment Part 2 (b) - round  400
+(32565, 31417, 33387)
+Assignment Part 2 (b) - round  401
+(33413, 32940, 32274)
+Assignment Part 2 (b) - round  402
+(32453, 32761, 32829)
+Assignment Part 2 (b) - round  403
+(32852, 33163, 32851)
+Assignment Part 2 (b) - round  404
+(31944, 32809, 33484)
+Assignment Part 2 (b) - round  405
+(32116, 32316, 32097)
+Assignment Part 2 (b) - round  406
+(31670, 32171, 32795)
+Assignment Part 2 (b) - round  407
+(32350, 32765, 32660)
+Assignment Part 2 (b) - round  408
+(32580, 31762, 32269)
+Assignment Part 2 (b) - round  409
+(32728, 33062, 32512)
+Assignment Part 2 (b) - round  410
+(32769, 32941, 33048)
+Assignment Part 2 (b) - round  411
+(31412, 32500, 32558)
+Assignment Part 2 (b) - round  412
+(32963, 32080, 32355)
+Assignment Part 2 (b) - round  413
+(33070, 32746, 33422)
+Assignment Part 2 (b) - round  414
+(32473, 32152, 32601)
+Assignment Part 2 (b) - round  415
+(33181, 32336, 32799)
+Assignment Part 2 (b) - round  416
+(33030, 33008, 31891)
+Assignment Part 2 (b) - round  417
+(32847, 32559, 32775)
+Assignment Part 2 (b) - round  418
+(33866, 33034, 31877)
+Assignment Part 2 (b) - round  419
+(33565, 33037, 32887)
+Assignment Part 2 (b) - round  420
+(33548, 33739, 34131)
+Assignment Part 2 (b) - round  421
+(32931, 33105, 32483)
+Assignment Part 2 (b) - round  422
+(33151, 32935, 32408)
+Assignment Part 2 (b) - round  423
+(32879, 32199, 32014)
+Assignment Part 2 (b) - round  424
+(33378, 33593, 33303)
+Assignment Part 2 (b) - round  425
+(32358, 33635, 32509)
+Assignment Part 2 (b) - round  426
+(32450, 33454, 33185)
+Assignment Part 2 (b) - round  427
+(31967, 32553, 32972)
+Assignment Part 2 (b) - round  428
+(32872, 32248, 32120)
+Assignment Part 2 (b) - round  429
+(33846, 33416, 32389)
+Assignment Part 2 (b) - round  430
+(32597, 32155, 33424)
+Assignment Part 2 (b) - round  431
+(32644, 33135, 33647)
+Assignment Part 2 (b) - round  432
+(32533, 31657, 33554)
+Assignment Part 2 (b) - round  433
+(32764, 32564, 32091)
+Assignment Part 2 (b) - round  434
+(33854, 32523, 32514)
+Assignment Part 2 (b) - round  435
+(32438, 32594, 31856)
+Assignment Part 2 (b) - round  436
+(32771, 32901, 33890)
+Assignment Part 2 (b) - round  437
+(32880, 33151, 33602)
+Assignment Part 2 (b) - round  438
+(32639, 32559, 32279)
+Assignment Part 2 (b) - round  439
+(33651, 32301, 31893)
+Assignment Part 2 (b) - round  440
+(32505, 32387, 32189)
+Assignment Part 2 (b) - round  441
+(32549, 32727, 32164)
+Assignment Part 2 (b) - round  442
+(33537, 31921, 33901)
+Assignment Part 2 (b) - round  443
+(32519, 32572, 32844)
+Assignment Part 2 (b) - round  444
+(32917, 31780, 32282)
+Assignment Part 2 (b) - round  445
+(32816, 31793, 32447)
+Assignment Part 2 (b) - round  446
+(33388, 31518, 34199)
+Assignment Part 2 (b) - round  447
+(32147, 30727, 33240)
+Assignment Part 2 (b) - round  448
+(33107, 32522, 33228)
+Assignment Part 2 (b) - round  449
+(33125, 32651, 32289)
+Assignment Part 2 (b) - round  450
+(31823, 32491, 32054)
+Assignment Part 2 (b) - round  451
+(33511, 33876, 33124)
+Assignment Part 2 (b) - round  452
+(32260, 31701, 32816)
+Assignment Part 2 (b) - round  453
+(32495, 32110, 33356)
+Assignment Part 2 (b) - round  454
+(32191, 32856, 32486)
+Assignment Part 2 (b) - round  455
+(32801, 32646, 32347)
+Assignment Part 2 (b) - round  456
+(33709, 31583, 32014)
+Assignment Part 2 (b) - round  457
+(33628, 32734, 32605)
+Assignment Part 2 (b) - round  458
+(34452, 33097, 32132)
+Assignment Part 2 (b) - round  459
+(31882, 33600, 32536)
+Assignment Part 2 (b) - round  460
+(32709, 32267, 33254)
+Assignment Part 2 (b) - round  461
+(32639, 32087, 32818)
+Assignment Part 2 (b) - round  462
+(33044, 32222, 33324)
+Assignment Part 2 (b) - round  463
+(31781, 32096, 32652)
+Assignment Part 2 (b) - round  464
+(33320, 31955, 33240)
+Assignment Part 2 (b) - round  465
+(31744, 31450, 32563)
+Assignment Part 2 (b) - round  466
+(33646, 31792, 32598)
+Assignment Part 2 (b) - round  467
+(33764, 32099, 32851)
+Assignment Part 2 (b) - round  468
+(33771, 33375, 32510)
+Assignment Part 2 (b) - round  469
+(33621, 32314, 31470)
+Assignment Part 2 (b) - round  470
+(32676, 33544, 32322)
+Assignment Part 2 (b) - round  471
+(32878, 32506, 32656)
+Assignment Part 2 (b) - round  472
+(32469, 32511, 32801)
+Assignment Part 2 (b) - round  473
+(33039, 32541, 33220)
+Assignment Part 2 (b) - round  474
+(33756, 32764, 32993)
+Assignment Part 2 (b) - round  475
+(32457, 33249, 31902)
+Assignment Part 2 (b) - round  476
+(32099, 32595, 33735)
+Assignment Part 2 (b) - round  477
+(33343, 32940, 32412)
+Assignment Part 2 (b) - round  478
+(32901, 32106, 32579)
+Assignment Part 2 (b) - round  479
+(33095, 32304, 32699)
+Assignment Part 2 (b) - round  480
+(32784, 32404, 33893)
+Assignment Part 2 (b) - round  481
+(33126, 33438, 32611)
+Assignment Part 2 (b) - round  482
+(33243, 31919, 32514)
+Assignment Part 2 (b) - round  483
+(33242, 33048, 32341)
+Assignment Part 2 (b) - round  484
+(32599, 32116, 33212)
+Assignment Part 2 (b) - round  485
+(32912, 32744, 32895)
+Assignment Part 2 (b) - round  486
+(33106, 31651, 34017)
+Assignment Part 2 (b) - round  487
+(33621, 33936, 32877)
+Assignment Part 2 (b) - round  488
+(32697, 32818, 32624)
+Assignment Part 2 (b) - round  489
+(32450, 32738, 33640)
+Assignment Part 2 (b) - round  490
+(31400, 33624, 33203)
+Assignment Part 2 (b) - round  491
+(32567, 32493, 33040)
+Assignment Part 2 (b) - round  492
+(32070, 32637, 31630)
+Assignment Part 2 (b) - round  493
+(32885, 33497, 32540)
+Assignment Part 2 (b) - round  494
+(33319, 32995, 32710)
+Assignment Part 2 (b) - round  495
+(32646, 33041, 32286)
+Assignment Part 2 (b) - round  496
+(32208, 32209, 33547)
+Assignment Part 2 (b) - round  497
+(33302, 33076, 33539)
+Assignment Part 2 (b) - round  498
+(32467, 33473, 33848)
+Assignment Part 2 (b) - round  499
+(32617, 32602, 33378)
+Assignment Part 2 (b) - round  500
+(33330, 32473, 33970)
+Assignment Part 2 (b) - round  501
+(32586, 31598, 33392)
+Assignment Part 2 (b) - round  502
+(32921, 32889, 32955)
+Assignment Part 2 (b) - round  503
+(32853, 32654, 33748)
+Assignment Part 2 (b) - round  504
+(33240, 32829, 32144)
+Assignment Part 2 (b) - round  505
+(33259, 32393, 31559)
+Assignment Part 2 (b) - round  506
+(32916, 33011, 32840)
+Assignment Part 2 (b) - round  507
+(33652, 31804, 32768)
+Assignment Part 2 (b) - round  508
+(32834, 32358, 31694)
+Assignment Part 2 (b) - round  509
+(32855, 32099, 33398)
+Assignment Part 2 (b) - round  510
+(32353, 32094, 33332)
+Assignment Part 2 (b) - round  511
+(32021, 32776, 33152)
+Assignment Part 2 (b) - round  512
+(32507, 32934, 32808)
+Assignment Part 2 (b) - round  513
+(31959, 32580, 32180)
+Assignment Part 2 (b) - round  514
+(32730, 32160, 32192)
+Assignment Part 2 (b) - round  515
+(32123, 33451, 31495)
+Assignment Part 2 (b) - round  516
+(32063, 32354, 32915)
+Assignment Part 2 (b) - round  517
+(32635, 33674, 33934)
+Assignment Part 2 (b) - round  518
+(32685, 32622, 31579)
+Assignment Part 2 (b) - round  519
+(33297, 33476, 32482)
+Assignment Part 2 (b) - round  520
+(32949, 32433, 32783)
+Assignment Part 2 (b) - round  521
+(32993, 32848, 32889)
+Assignment Part 2 (b) - round  522
+(32428, 33223, 33792)
+Assignment Part 2 (b) - round  523
+(32910, 32711, 33593)
+Assignment Part 2 (b) - round  524
+(32966, 32751, 32910)
+Assignment Part 2 (b) - round  525
+(32471, 32495, 32625)
+Assignment Part 2 (b) - round  526
+(32497, 33325, 32031)
+Assignment Part 2 (b) - round  527
+(33739, 32753, 32919)
+Assignment Part 2 (b) - round  528
+(33333, 32632, 32942)
+Assignment Part 2 (b) - round  529
+(32724, 32439, 32324)
+Assignment Part 2 (b) - round  530
+(33023, 32006, 31700)
+Assignment Part 2 (b) - round  531
+(31765, 32553, 32478)
+Assignment Part 2 (b) - round  532
+(32377, 32837, 32304)
+Assignment Part 2 (b) - round  533
+(32542, 33698, 32655)
+Assignment Part 2 (b) - round  534
+(32904, 32896, 33208)
+Assignment Part 2 (b) - round  535
+(32520, 31724, 30781)
+Assignment Part 2 (b) - round  536
+(32867, 32199, 32569)
+Assignment Part 2 (b) - round  537
+(32715, 32419, 33323)
+Assignment Part 2 (b) - round  538
+(32569, 32057, 33032)
+Assignment Part 2 (b) - round  539
+(32749, 32622, 33974)
+Assignment Part 2 (b) - round  540
+(33476, 32592, 33590)
+Assignment Part 2 (b) - round  541
+(32870, 32686, 32114)
+Assignment Part 2 (b) - round  542
+(33502, 32436, 32803)
+Assignment Part 2 (b) - round  543
+(32913, 32854, 32209)
+Assignment Part 2 (b) - round  544
+(31553, 33299, 32794)
+Assignment Part 2 (b) - round  545
+(32659, 32243, 33130)
+Assignment Part 2 (b) - round  546
+(32449, 33291, 33241)
+Assignment Part 2 (b) - round  547
+(32106, 33857, 32740)
+Assignment Part 2 (b) - round  548
+(33547, 32076, 33446)
+Assignment Part 2 (b) - round  549
+(33764, 33277, 32884)
+Assignment Part 2 (b) - round  550
+(32645, 33545, 32807)
+Assignment Part 2 (b) - round  551
+(32755, 32185, 31863)
+Assignment Part 2 (b) - round  552
+(32671, 32113, 33157)
+Assignment Part 2 (b) - round  553
+(33730, 33093, 32697)
+Assignment Part 2 (b) - round  554
+(32641, 32656, 33517)
+Assignment Part 2 (b) - round  555
+(32115, 33336, 32094)
+Assignment Part 2 (b) - round  556
+(33691, 31904, 32500)
+Assignment Part 2 (b) - round  557
+(32543, 33087, 33559)
+Assignment Part 2 (b) - round  558
+(32973, 32581, 33781)
+Assignment Part 2 (b) - round  559
+(33598, 32830, 33668)
+Assignment Part 2 (b) - round  560
+(33021, 32989, 32585)
+Assignment Part 2 (b) - round  561
+(32296, 33517, 32508)
+Assignment Part 2 (b) - round  562
+(32621, 33209, 33105)
+Assignment Part 2 (b) - round  563
+(33592, 32496, 33434)
+Assignment Part 2 (b) - round  564
+(31930, 32753, 32519)
+Assignment Part 2 (b) - round  565
+(32175, 33105, 33223)
+Assignment Part 2 (b) - round  566
+(32425, 32679, 32582)
+Assignment Part 2 (b) - round  567
+(33057, 33403, 33432)
+Assignment Part 2 (b) - round  568
+(31721, 33427, 32666)
+Assignment Part 2 (b) - round  569
+(32690, 32344, 32447)
+Assignment Part 2 (b) - round  570
+(32118, 31952, 33126)
+Assignment Part 2 (b) - round  571
+(33241, 32442, 32292)
+Assignment Part 2 (b) - round  572
+(33219, 32165, 32674)
+Assignment Part 2 (b) - round  573
+(32342, 33840, 33642)
+Assignment Part 2 (b) - round  574
+(32521, 32596, 33195)
+Assignment Part 2 (b) - round  575
+(33527, 31915, 32023)
+Assignment Part 2 (b) - round  576
+(32745, 32273, 33758)
+Assignment Part 2 (b) - round  577
+(32054, 33073, 33129)
+Assignment Part 2 (b) - round  578
+(33610, 32534, 32298)
+Assignment Part 2 (b) - round  579
+(33072, 33414, 32190)
+Assignment Part 2 (b) - round  580
+(32121, 32425, 33617)
+Assignment Part 2 (b) - round  581
+(33540, 32459, 32406)
+Assignment Part 2 (b) - round  582
+(32541, 32470, 33313)
+Assignment Part 2 (b) - round  583
+(33238, 33932, 33052)
+Assignment Part 2 (b) - round  584
+(32565, 33042, 32019)
+Assignment Part 2 (b) - round  585
+(33229, 32893, 33382)
+Assignment Part 2 (b) - round  586
+(32947, 32364, 32961)
+Assignment Part 2 (b) - round  587
+(31861, 33637, 33054)
+Assignment Part 2 (b) - round  588
+(32488, 33687, 33524)
+Assignment Part 2 (b) - round  589
+(33124, 31231, 32787)
+Assignment Part 2 (b) - round  590
+(34375, 32998, 33468)
+Assignment Part 2 (b) - round  591
+(33715, 32401, 32555)
+Assignment Part 2 (b) - round  592
+(33238, 32910, 32197)
+Assignment Part 2 (b) - round  593
+(32045, 33455, 31888)
+Assignment Part 2 (b) - round  594
+(32682, 33104, 32009)
+Assignment Part 2 (b) - round  595
+(32692, 33648, 32837)
+Assignment Part 2 (b) - round  596
+(32319, 32864, 32573)
+Assignment Part 2 (b) - round  597
+(33148, 31619, 32127)
+Assignment Part 2 (b) - round  598
+(33372, 33627, 32568)
+Assignment Part 2 (b) - round  599
+(32263, 33424, 32194)
+Assignment Part 2 (b) - round  600
+(33443, 33704, 32426)
+Assignment Part 2 (b) - round  601
+(32278, 32203, 33150)
+Assignment Part 2 (b) - round  602
+(32507, 32401, 33386)
+Assignment Part 2 (b) - round  603
+(32883, 31783, 32831)
+Assignment Part 2 (b) - round  604
+(32831, 32968, 32020)
+Assignment Part 2 (b) - round  605
+(31924, 31419, 32215)
+Assignment Part 2 (b) - round  606
+(32812, 32226, 33587)
+Assignment Part 2 (b) - round  607
+(33200, 32930, 33560)
+Assignment Part 2 (b) - round  608
+(32368, 33108, 32830)
+Assignment Part 2 (b) - round  609
+(33225, 32701, 32659)
+Assignment Part 2 (b) - round  610
+(33624, 32736, 33002)
+Assignment Part 2 (b) - round  611
+(32066, 33071, 33101)
+Assignment Part 2 (b) - round  612
+(32820, 33147, 33651)
+Assignment Part 2 (b) - round  613
+(32515, 31787, 32743)
+Assignment Part 2 (b) - round  614
+(33996, 32187, 32407)
+Assignment Part 2 (b) - round  615
+(31780, 32857, 33404)
+Assignment Part 2 (b) - round  616
+(31336, 33195, 32651)
+Assignment Part 2 (b) - round  617
+(33441, 33483, 33251)
+Assignment Part 2 (b) - round  618
+(34130, 32758, 32609)
+Assignment Part 2 (b) - round  619
+(33152, 32640, 34134)
+Assignment Part 2 (b) - round  620
+(33630, 31818, 32799)
+Assignment Part 2 (b) - round  621
+(32844, 32681, 32294)
+Assignment Part 2 (b) - round  622
+(32817, 32776, 32731)
+Assignment Part 2 (b) - round  623
+(32331, 32647, 32670)
+Assignment Part 2 (b) - round  624
+(33201, 32083, 32615)
+Assignment Part 2 (b) - round  625
+(32732, 33429, 32761)
+Assignment Part 2 (b) - round  626
+(33919, 31630, 32450)
+Assignment Part 2 (b) - round  627
+(33110, 33426, 32240)
+Assignment Part 2 (b) - round  628
+(33594, 33377, 33130)
+Assignment Part 2 (b) - round  629
+(31757, 32259, 31570)
+Assignment Part 2 (b) - round  630
+(32668, 32656, 33318)
+Assignment Part 2 (b) - round  631
+(32447, 33381, 32750)
+Assignment Part 2 (b) - round  632
+(32759, 32474, 33011)
+Assignment Part 2 (b) - round  633
+(32706, 33091, 32302)
+Assignment Part 2 (b) - round  634
+(32536, 33066, 32995)
+Assignment Part 2 (b) - round  635
+(32674, 33570, 31436)
+Assignment Part 2 (b) - round  636
+(32802, 33189, 32648)
+Assignment Part 2 (b) - round  637
+(32193, 32400, 32797)
+Assignment Part 2 (b) - round  638
+(33546, 32662, 32380)
+Assignment Part 2 (b) - round  639
+(33109, 32863, 32411)
+Assignment Part 2 (b) - round  640
+(32945, 32284, 33218)
+Assignment Part 2 (b) - round  641
+(32369, 32609, 32933)
+Assignment Part 2 (b) - round  642
+(31643, 33379, 33056)
+Assignment Part 2 (b) - round  643
+(32774, 32408, 33386)
+Assignment Part 2 (b) - round  644
+(31824, 32658, 33097)
+Assignment Part 2 (b) - round  645
+(34346, 33959, 32566)
+Assignment Part 2 (b) - round  646
+(32328, 33108, 32845)
+Assignment Part 2 (b) - round  647
+(33090, 32486, 33751)
+Assignment Part 2 (b) - round  648
+(32433, 32502, 32363)
+Assignment Part 2 (b) - round  649
+(32637, 32301, 32338)
+Assignment Part 2 (b) - round  650
+(33124, 33355, 32666)
+Assignment Part 2 (b) - round  651
+(33024, 33013, 32780)
+Assignment Part 2 (b) - round  652
+(32458, 32301, 33199)
+Assignment Part 2 (b) - round  653
+(33146, 33079, 33196)
+Assignment Part 2 (b) - round  654
+(33118, 33130, 32308)
+Assignment Part 2 (b) - round  655
+(32953, 31626, 32203)
+Assignment Part 2 (b) - round  656
+(32342, 32606, 33302)
+Assignment Part 2 (b) - round  657
+(32912, 33422, 31760)
+Assignment Part 2 (b) - round  658
+(33917, 32856, 31705)
+Assignment Part 2 (b) - round  659
+(33743, 32956, 32837)
+Assignment Part 2 (b) - round  660
+(33484, 32109, 31634)
+Assignment Part 2 (b) - round  661
+(31604, 32669, 33583)
+Assignment Part 2 (b) - round  662
+(33365, 32113, 32057)
+Assignment Part 2 (b) - round  663
+(33722, 32137, 31860)
+Assignment Part 2 (b) - round  664
+(32839, 32548, 33634)
+Assignment Part 2 (b) - round  665
+(32354, 32214, 32560)
+Assignment Part 2 (b) - round  666
+(33141, 33083, 31889)
+Assignment Part 2 (b) - round  667
+(32490, 32618, 31549)
+Assignment Part 2 (b) - round  668
+(32240, 32331, 32795)
+Assignment Part 2 (b) - round  669
+(32780, 32034, 33191)
+Assignment Part 2 (b) - round  670
+(32625, 32870, 33562)
+Assignment Part 2 (b) - round  671
+(32768, 32498, 32449)
+Assignment Part 2 (b) - round  672
+(32933, 32252, 32621)
+Assignment Part 2 (b) - round  673
+(33283, 32441, 31551)
+Assignment Part 2 (b) - round  674
+(32171, 33593, 32512)
+Assignment Part 2 (b) - round  675
+(32614, 31962, 32497)
+Assignment Part 2 (b) - round  676
+(31881, 32819, 32798)
+Assignment Part 2 (b) - round  677
+(32789, 32599, 33119)
+Assignment Part 2 (b) - round  678
+(32679, 33305, 32435)
+Assignment Part 2 (b) - round  679
+(32978, 32264, 33372)
+Assignment Part 2 (b) - round  680
+(32229, 31012, 33363)
+Assignment Part 2 (b) - round  681
+(33203, 32750, 32497)
+Assignment Part 2 (b) - round  682
+(32379, 32554, 33513)
+Assignment Part 2 (b) - round  683
+(32898, 33260, 33079)
+Assignment Part 2 (b) - round  684
+(32402, 32724, 33125)
+Assignment Part 2 (b) - round  685
+(32538, 33751, 33132)
+Assignment Part 2 (b) - round  686
+(32108, 33536, 32075)
+Assignment Part 2 (b) - round  687
+(33897, 32266, 32693)
+Assignment Part 2 (b) - round  688
+(31616, 31897, 33375)
+Assignment Part 2 (b) - round  689
+(32609, 32102, 31527)
+Assignment Part 2 (b) - round  690
+(33503, 32378, 31899)
+Assignment Part 2 (b) - round  691
+(32916, 32978, 32386)
+Assignment Part 2 (b) - round  692
+(32809, 31690, 31988)
+Assignment Part 2 (b) - round  693
+(32292, 33184, 32858)
+Assignment Part 2 (b) - round  694
+(32904, 33091, 32520)
+Assignment Part 2 (b) - round  695
+(32193, 32301, 32808)
+Assignment Part 2 (b) - round  696
+(32735, 32521, 31411)
+Assignment Part 2 (b) - round  697
+(32238, 32832, 32834)
+Assignment Part 2 (b) - round  698
+(32022, 32514, 33223)
+Assignment Part 2 (b) - round  699
+(32670, 32032, 34097)
+Assignment Part 2 (b) - round  700
+(33286, 33344, 33235)
+Assignment Part 2 (b) - round  701
+(32416, 32468, 33471)
+Assignment Part 2 (b) - round  702
+(32775, 33126, 31982)
+Assignment Part 2 (b) - round  703
+(32494, 31857, 32011)
+Assignment Part 2 (b) - round  704
+(32927, 32010, 33452)
+Assignment Part 2 (b) - round  705
+(32878, 32225, 32276)
+Assignment Part 2 (b) - round  706
+(33286, 33093, 33099)
+Assignment Part 2 (b) - round  707
+(33258, 32607, 33143)
+Assignment Part 2 (b) - round  708
+(32457, 32949, 33140)
+Assignment Part 2 (b) - round  709
+(31893, 32504, 32588)
+Assignment Part 2 (b) - round  710
+(33568, 32066, 32852)
+Assignment Part 2 (b) - round  711
+(32961, 33085, 32797)
+Assignment Part 2 (b) - round  712
+(32772, 32103, 32718)
+Assignment Part 2 (b) - round  713
+(33117, 32035, 32184)
+Assignment Part 2 (b) - round  714
+(32464, 33175, 32326)
+Assignment Part 2 (b) - round  715
+(32499, 32907, 32010)
+Assignment Part 2 (b) - round  716
+(33267, 32125, 31946)
+Assignment Part 2 (b) - round  717
+(33030, 32800, 33331)
+Assignment Part 2 (b) - round  718
+(31947, 32188, 34087)
+Assignment Part 2 (b) - round  719
+(32751, 31845, 32082)
+Assignment Part 2 (b) - round  720
+(31534, 32990, 32739)
+Assignment Part 2 (b) - round  721
+(32664, 32988, 31833)
+Assignment Part 2 (b) - round  722
+(33182, 33293, 32022)
+Assignment Part 2 (b) - round  723
+(32998, 33483, 32288)
+Assignment Part 2 (b) - round  724
+(32752, 33350, 32745)
+Assignment Part 2 (b) - round  725
+(33787, 33401, 33421)
+Assignment Part 2 (b) - round  726
+(32996, 32344, 32920)
+Assignment Part 2 (b) - round  727
+(32206, 32946, 32576)
+Assignment Part 2 (b) - round  728
+(33270, 31742, 32450)
+Assignment Part 2 (b) - round  729
+(32923, 33045, 31919)
+Assignment Part 2 (b) - round  730
+(32267, 32708, 32594)
+Assignment Part 2 (b) - round  731
+(32748, 32643, 33996)
+Assignment Part 2 (b) - round  732
+(32124, 32920, 33002)
+Assignment Part 2 (b) - round  733
+(32067, 32613, 33740)
+Assignment Part 2 (b) - round  734
+(32786, 31490, 33291)
+Assignment Part 2 (b) - round  735
+(32744, 31447, 32024)
+Assignment Part 2 (b) - round  736
+(32129, 32614, 33083)
+Assignment Part 2 (b) - round  737
+(33193, 33319, 32090)
+Assignment Part 2 (b) - round  738
+(31900, 33399, 32586)
+Assignment Part 2 (b) - round  739
+(33218, 33601, 33139)
+Assignment Part 2 (b) - round  740
+(32944, 32811, 32757)
+Assignment Part 2 (b) - round  741
+(32153, 31484, 32845)
+Assignment Part 2 (b) - round  742
+(32588, 32040, 32821)
+Assignment Part 2 (b) - round  743
+(33394, 31624, 32714)
+Assignment Part 2 (b) - round  744
+(32863, 33433, 32463)
+Assignment Part 2 (b) - round  745
+(32787, 33172, 33370)
+Assignment Part 2 (b) - round  746
+(32644, 32748, 32764)
+Assignment Part 2 (b) - round  747
+(32662, 32979, 33371)
+Assignment Part 2 (b) - round  748
+(32054, 32662, 32564)
+Assignment Part 2 (b) - round  749
+(33200, 33315, 33191)
+Assignment Part 2 (b) - round  750
+(32515, 31872, 31985)
+Assignment Part 2 (b) - round  751
+(32388, 33100, 32797)
+Assignment Part 2 (b) - round  752
+(33274, 32373, 31759)
+Assignment Part 2 (b) - round  753
+(32775, 33010, 33197)
+Assignment Part 2 (b) - round  754
+(31808, 33195, 32271)
+Assignment Part 2 (b) - round  755
+(32912, 32471, 32899)
+Assignment Part 2 (b) - round  756
+(32947, 31594, 32542)
+Assignment Part 2 (b) - round  757
+(33118, 33155, 32612)
+Assignment Part 2 (b) - round  758
+(33334, 32619, 31738)
+Assignment Part 2 (b) - round  759
+(31966, 33475, 31841)
+Assignment Part 2 (b) - round  760
+(32825, 31085, 31834)
+Assignment Part 2 (b) - round  761
+(32569, 32387, 32857)
+Assignment Part 2 (b) - round  762
+(33657, 32141, 32611)
+Assignment Part 2 (b) - round  763
+(32657, 34222, 32566)
+Assignment Part 2 (b) - round  764
+(34052, 31900, 32156)
+Assignment Part 2 (b) - round  765
+(33954, 32564, 32844)
+Assignment Part 2 (b) - round  766
+(33715, 32280, 34022)
+Assignment Part 2 (b) - round  767
+(33168, 33614, 33340)
+Assignment Part 2 (b) - round  768
+(33123, 33492, 32954)
+Assignment Part 2 (b) - round  769
+(32766, 33696, 33297)
+Assignment Part 2 (b) - round  770
+(32534, 32874, 33125)
+Assignment Part 2 (b) - round  771
+(32551, 32262, 32554)
+Assignment Part 2 (b) - round  772
+(31862, 32027, 32269)
+Assignment Part 2 (b) - round  773
+(32804, 32395, 32849)
+Assignment Part 2 (b) - round  774
+(33762, 33035, 32550)
+Assignment Part 2 (b) - round  775
+(32558, 32551, 32639)
+Assignment Part 2 (b) - round  776
+(33474, 33959, 31520)
+Assignment Part 2 (b) - round  777
+(32689, 33458, 33634)
+Assignment Part 2 (b) - round  778
+(32804, 33124, 32228)
+Assignment Part 2 (b) - round  779
+(31784, 33367, 32575)
+Assignment Part 2 (b) - round  780
+(33365, 32688, 32830)
+Assignment Part 2 (b) - round  781
+(32493, 33076, 33664)
+Assignment Part 2 (b) - round  782
+(33525, 32895, 33485)
+Assignment Part 2 (b) - round  783
+(33485, 32870, 32514)
+Assignment Part 2 (b) - round  784
+(33326, 32748, 33462)
+Assignment Part 2 (b) - round  785
+(32770, 32420, 32942)
+Assignment Part 2 (b) - round  786
+(31805, 32464, 33117)
+Assignment Part 2 (b) - round  787
+(32553, 32752, 32990)
+Assignment Part 2 (b) - round  788
+(33511, 32973, 33048)
+Assignment Part 2 (b) - round  789
+(31510, 31568, 32067)
+Assignment Part 2 (b) - round  790
+(33360, 32169, 32358)
+Assignment Part 2 (b) - round  791
+(32839, 31669, 32968)
+Assignment Part 2 (b) - round  792
+(33189, 32521, 31880)
+Assignment Part 2 (b) - round  793
+(33118, 32119, 32331)
+Assignment Part 2 (b) - round  794
+(33106, 32277, 33120)
+Assignment Part 2 (b) - round  795
+(31939, 32320, 33126)
+Assignment Part 2 (b) - round  796
+(32723, 33138, 32991)
+Assignment Part 2 (b) - round  797
+(32580, 32714, 32849)
+Assignment Part 2 (b) - round  798
+(32008, 33023, 32581)
+Assignment Part 2 (b) - round  799
+(32389, 32836, 32762)
+Assignment Part 2 (b) - round  800
+(33911, 32485, 31599)
+Assignment Part 2 (b) - round  801
+(32588, 31007, 32099)
+Assignment Part 2 (b) - round  802
+(32936, 31757, 32963)
+Assignment Part 2 (b) - round  803
+(32776, 32289, 32890)
+Assignment Part 2 (b) - round  804
+(32498, 32841, 32316)
+Assignment Part 2 (b) - round  805
+(31747, 32441, 33373)
+Assignment Part 2 (b) - round  806
+(32643, 32225, 31927)
+Assignment Part 2 (b) - round  807
+(33048, 33076, 31037)
+Assignment Part 2 (b) - round  808
+(32756, 32948, 32015)
+Assignment Part 2 (b) - round  809
+(32281, 33618, 32626)
+Assignment Part 2 (b) - round  810
+(32910, 33068, 32120)
+Assignment Part 2 (b) - round  811
+(32548, 32656, 33427)
+Assignment Part 2 (b) - round  812
+(33574, 31527, 31776)
+Assignment Part 2 (b) - round  813
+(32613, 32996, 32596)
+Assignment Part 2 (b) - round  814
+(32016, 31931, 32332)
+Assignment Part 2 (b) - round  815
+(32904, 33080, 32775)
+Assignment Part 2 (b) - round  816
+(32281, 31370, 32148)
+Assignment Part 2 (b) - round  817
+(31733, 31956, 33148)
+Assignment Part 2 (b) - round  818
+(32864, 32459, 33160)
+Assignment Part 2 (b) - round  819
+(32123, 33039, 32377)
+Assignment Part 2 (b) - round  820
+(32655, 32896, 32188)
+Assignment Part 2 (b) - round  821
+(33171, 32144, 32131)
+Assignment Part 2 (b) - round  822
+(31976, 33442, 32937)
+Assignment Part 2 (b) - round  823
+(31792, 32461, 32639)
+Assignment Part 2 (b) - round  824
+(33126, 32380, 33511)
+Assignment Part 2 (b) - round  825
+(33010, 32614, 32401)
+Assignment Part 2 (b) - round  826
+(32424, 33469, 32180)
+Assignment Part 2 (b) - round  827
+(32798, 33021, 32384)
+Assignment Part 2 (b) - round  828
+(31993, 32350, 33612)
+Assignment Part 2 (b) - round  829
+(32880, 32921, 34084)
+Assignment Part 2 (b) - round  830
+(33718, 32832, 31982)
+Assignment Part 2 (b) - round  831
+(32721, 33193, 32057)
+Assignment Part 2 (b) - round  832
+(33170, 32622, 32244)
+Assignment Part 2 (b) - round  833
+(32947, 32574, 33431)
+Assignment Part 2 (b) - round  834
+(32787, 33262, 33359)
+Assignment Part 2 (b) - round  835
+(32646, 32182, 32615)
+Assignment Part 2 (b) - round  836
+(33459, 32490, 33354)
+Assignment Part 2 (b) - round  837
+(33067, 32524, 33055)
+Assignment Part 2 (b) - round  838
+(32653, 31987, 32758)
+Assignment Part 2 (b) - round  839
+(31590, 33168, 32426)
+Assignment Part 2 (b) - round  840
+(33008, 33513, 32382)
+Assignment Part 2 (b) - round  841
+(33376, 32674, 32791)
+Assignment Part 2 (b) - round  842
+(32547, 31948, 32332)
+Assignment Part 2 (b) - round  843
+(33358, 33198, 32440)
+Assignment Part 2 (b) - round  844
+(32010, 32464, 33820)
+Assignment Part 2 (b) - round  845
+(32874, 33326, 33161)
+Assignment Part 2 (b) - round  846
+(32910, 32163, 31915)
+Assignment Part 2 (b) - round  847
+(33858, 32383, 33084)
+Assignment Part 2 (b) - round  848
+(32774, 32098, 33026)
+Assignment Part 2 (b) - round  849
+(32873, 32678, 32489)
+Assignment Part 2 (b) - round  850
+(33676, 33689, 33319)
+Assignment Part 2 (b) - round  851
+(32801, 33022, 33381)
+Assignment Part 2 (b) - round  852
+(32616, 32830, 33040)
+Assignment Part 2 (b) - round  853
+(33228, 32018, 32012)
+Assignment Part 2 (b) - round  854
+(32528, 32720, 32805)
+Assignment Part 2 (b) - round  855
+(33181, 32300, 32662)
+Assignment Part 2 (b) - round  856
+(33406, 32708, 32317)
+Assignment Part 2 (b) - round  857
+(33348, 33007, 32602)
+Assignment Part 2 (b) - round  858
+(33395, 33499, 32551)
+Assignment Part 2 (b) - round  859
+(32356, 32984, 32838)
+Assignment Part 2 (b) - round  860
+(33104, 33434, 33751)
+Assignment Part 2 (b) - round  861
+(32607, 31994, 32256)
+Assignment Part 2 (b) - round  862
+(32517, 32968, 33048)
+Assignment Part 2 (b) - round  863
+(33786, 32041, 33221)
+Assignment Part 2 (b) - round  864
+(32540, 32948, 33288)
+Assignment Part 2 (b) - round  865
+(32850, 32706, 32789)
+Assignment Part 2 (b) - round  866
+(32297, 31927, 32385)
+Assignment Part 2 (b) - round  867
+(32907, 31953, 32637)
+Assignment Part 2 (b) - round  868
+(32707, 32878, 32357)
+Assignment Part 2 (b) - round  869
+(33239, 32499, 32861)
+Assignment Part 2 (b) - round  870
+(32700, 31831, 32198)
+Assignment Part 2 (b) - round  871
+(32374, 32163, 33000)
+Assignment Part 2 (b) - round  872
+(34463, 32100, 32362)
+Assignment Part 2 (b) - round  873
+(32779, 33114, 32120)
+Assignment Part 2 (b) - round  874
+(33267, 33443, 33414)
+Assignment Part 2 (b) - round  875
+(32904, 32177, 32250)
+Assignment Part 2 (b) - round  876
+(33868, 33260, 32530)
+Assignment Part 2 (b) - round  877
+(32319, 32350, 32460)
+Assignment Part 2 (b) - round  878
+(33449, 32588, 32296)
+Assignment Part 2 (b) - round  879
+(33222, 32846, 33047)
+Assignment Part 2 (b) - round  880
+(32628, 31132, 33593)
+Assignment Part 2 (b) - round  881
+(32349, 32713, 31727)
+Assignment Part 2 (b) - round  882
+(31643, 32553, 33396)
+Assignment Part 2 (b) - round  883
+(33710, 33171, 34141)
+Assignment Part 2 (b) - round  884
+(32862, 32565, 33105)
+Assignment Part 2 (b) - round  885
+(32400, 33350, 34043)
+Assignment Part 2 (b) - round  886
+(32059, 32129, 32091)
+Assignment Part 2 (b) - round  887
+(33009, 33363, 33303)
+Assignment Part 2 (b) - round  888
+(33010, 31785, 32853)
+Assignment Part 2 (b) - round  889
+(33096, 31936, 32435)
+Assignment Part 2 (b) - round  890
+(33262, 32092, 33640)
+Assignment Part 2 (b) - round  891
+(32509, 31979, 33332)
+Assignment Part 2 (b) - round  892
+(32712, 32916, 32315)
+Assignment Part 2 (b) - round  893
+(33426, 33612, 33814)
+Assignment Part 2 (b) - round  894
+(32863, 31888, 32251)
+Assignment Part 2 (b) - round  895
+(33245, 32785, 32771)
+Assignment Part 2 (b) - round  896
+(32355, 31951, 32812)
+Assignment Part 2 (b) - round  897
+(32870, 32777, 32525)
+Assignment Part 2 (b) - round  898
+(32026, 32252, 32900)
+Assignment Part 2 (b) - round  899
+(33423, 32371, 32686)
+Assignment Part 2 (b) - round  900
+(33069, 33114, 32583)
+Assignment Part 2 (b) - round  901
+(32692, 33249, 32576)
+Assignment Part 2 (b) - round  902
+(32828, 32315, 33591)
+Assignment Part 2 (b) - round  903
+(32872, 33144, 33395)
+Assignment Part 2 (b) - round  904
+(33029, 32490, 31971)
+Assignment Part 2 (b) - round  905
+(32759, 32578, 32237)
+Assignment Part 2 (b) - round  906
+(33101, 33139, 32217)
+Assignment Part 2 (b) - round  907
+(32890, 32790, 32408)
+Assignment Part 2 (b) - round  908
+(33193, 31506, 34151)
+Assignment Part 2 (b) - round  909
+(32389, 33043, 33070)
+Assignment Part 2 (b) - round  910
+(32258, 33037, 32428)
+Assignment Part 2 (b) - round  911
+(33379, 33211, 33521)
+Assignment Part 2 (b) - round  912
+(32705, 33451, 32623)
+Assignment Part 2 (b) - round  913
+(32685, 32424, 32874)
+Assignment Part 2 (b) - round  914
+(33433, 32764, 33780)
+Assignment Part 2 (b) - round  915
+(32339, 32615, 32803)
+Assignment Part 2 (b) - round  916
+(33313, 32883, 33377)
+Assignment Part 2 (b) - round  917
+(32537, 33354, 33060)
+Assignment Part 2 (b) - round  918
+(33648, 32712, 32417)
+Assignment Part 2 (b) - round  919
+(32807, 32096, 33081)
+Assignment Part 2 (b) - round  920
+(33086, 32746, 33378)
+Assignment Part 2 (b) - round  921
+(32403, 31606, 32956)
+Assignment Part 2 (b) - round  922
+(32791, 34026, 33303)
+Assignment Part 2 (b) - round  923
+(31774, 32521, 31331)
+Assignment Part 2 (b) - round  924
+(33336, 32360, 32194)
+Assignment Part 2 (b) - round  925
+(33576, 31549, 31896)
+Assignment Part 2 (b) - round  926
+(33212, 32752, 33424)
+Assignment Part 2 (b) - round  927
+(32949, 32746, 32517)
+Assignment Part 2 (b) - round  928
+(32758, 32027, 32591)
+Assignment Part 2 (b) - round  929
+(33187, 33176, 33065)
+Assignment Part 2 (b) - round  930
+(33626, 32549, 32355)
+Assignment Part 2 (b) - round  931
+(32200, 32327, 32615)
+Assignment Part 2 (b) - round  932
+(32069, 32351, 31999)
+Assignment Part 2 (b) - round  933
+(32719, 32717, 31447)
+Assignment Part 2 (b) - round  934
+(33452, 32312, 32886)
+Assignment Part 2 (b) - round  935
+(34200, 33013, 32464)
+Assignment Part 2 (b) - round  936
+(32787, 32692, 32586)
+Assignment Part 2 (b) - round  937
+(32488, 33973, 32058)
+Assignment Part 2 (b) - round  938
+(33307, 34090, 33545)
+Assignment Part 2 (b) - round  939
+(32233, 31992, 32617)
+Assignment Part 2 (b) - round  940
+(32750, 32654, 32977)
+Assignment Part 2 (b) - round  941
+(32765, 32924, 32858)
+Assignment Part 2 (b) - round  942
+(32400, 32993, 33012)
+Assignment Part 2 (b) - round  943
+(33461, 32263, 33117)
+Assignment Part 2 (b) - round  944
+(32760, 32234, 33159)
+Assignment Part 2 (b) - round  945
+(34380, 32985, 32588)
+Assignment Part 2 (b) - round  946
+(32854, 32913, 32309)
+Assignment Part 2 (b) - round  947
+(31833, 31536, 33773)
+Assignment Part 2 (b) - round  948
+(32918, 31735, 32432)
+Assignment Part 2 (b) - round  949
+(33015, 32869, 33477)
+Assignment Part 2 (b) - round  950
+(32290, 32544, 32064)
+Assignment Part 2 (b) - round  951
+(33043, 32199, 33516)
+Assignment Part 2 (b) - round  952
+(32618, 31988, 31649)
+Assignment Part 2 (b) - round  953
+(32766, 32846, 32801)
+Assignment Part 2 (b) - round  954
+(32453, 32982, 33253)
+Assignment Part 2 (b) - round  955
+(32713, 31989, 33200)
+Assignment Part 2 (b) - round  956
+(32144, 32903, 32749)
+Assignment Part 2 (b) - round  957
+(33321, 33276, 33468)
+Assignment Part 2 (b) - round  958
+(32320, 33276, 33188)
+Assignment Part 2 (b) - round  959
+(32080, 33037, 32893)
+Assignment Part 2 (b) - round  960
+(33237, 32773, 33470)
+Assignment Part 2 (b) - round  961
+(31896, 32869, 32238)
+Assignment Part 2 (b) - round  962
+(32694, 32322, 32919)
+Assignment Part 2 (b) - round  963
+(33156, 32490, 32543)
+Assignment Part 2 (b) - round  964
+(32800, 32605, 31915)
+Assignment Part 2 (b) - round  965
+(32932, 32112, 32814)
+Assignment Part 2 (b) - round  966
+(32517, 32261, 32923)
+Assignment Part 2 (b) - round  967
+(31927, 31993, 32081)
+Assignment Part 2 (b) - round  968
+(32693, 33006, 33602)
+Assignment Part 2 (b) - round  969
+(32647, 31193, 32679)
+Assignment Part 2 (b) - round  970
+(32351, 33417, 32573)
+Assignment Part 2 (b) - round  971
+(32395, 33047, 32282)
+Assignment Part 2 (b) - round  972
+(33371, 34018, 32803)
+Assignment Part 2 (b) - round  973
+(31492, 32884, 33275)
+Assignment Part 2 (b) - round  974
+(33308, 32365, 33129)
+Assignment Part 2 (b) - round  975
+(32657, 32402, 32806)
+Assignment Part 2 (b) - round  976
+(33569, 33125, 33110)
+Assignment Part 2 (b) - round  977
+(32907, 33217, 32984)
+Assignment Part 2 (b) - round  978
+(32527, 33113, 33082)
+Assignment Part 2 (b) - round  979
+(31633, 31970, 33650)
+Assignment Part 2 (b) - round  980
+(32466, 32770, 32789)
+Assignment Part 2 (b) - round  981
+(33152, 31932, 33625)
+Assignment Part 2 (b) - round  982
+(32778, 32197, 32629)
+Assignment Part 2 (b) - round  983
+(32326, 33240, 32709)
+Assignment Part 2 (b) - round  984
+(33050, 32221, 32793)
+Assignment Part 2 (b) - round  985
+(33227, 31609, 33126)
+Assignment Part 2 (b) - round  986
+(32444, 33506, 32246)
+Assignment Part 2 (b) - round  987
+(33323, 32130, 33336)
+Assignment Part 2 (b) - round  988
+(32575, 33058, 32031)
+Assignment Part 2 (b) - round  989
+(32378, 31610, 33174)
+Assignment Part 2 (b) - round  990
+(33095, 32215, 33430)
+Assignment Part 2 (b) - round  991
+(32861, 33227, 31679)
+Assignment Part 2 (b) - round  992
+(32562, 32995, 32773)
+Assignment Part 2 (b) - round  993
+(32169, 32621, 32752)
+Assignment Part 2 (b) - round  994
+(34003, 32477, 33489)
+Assignment Part 2 (b) - round  995
+(32576, 33265, 32660)
+Assignment Part 2 (b) - round  996
+(33287, 33390, 32498)
+Assignment Part 2 (b) - round  997
+(32406, 32824, 33911)
+Assignment Part 2 (b) - round  998
+(32869, 33437, 32541)
+Assignment Part 2 (b) - round  999
+(32078, 32444, 32232)
+Assignment Part 2 (b) - round  1000
+(34016, 33950, 33413)
+Assignment Part 2 (b) - round  1001
+(32883, 31892, 32985)
+Assignment Part 2 (b) - round  1002
+(32817, 32151, 32202)
+Assignment Part 2 (b) - round  1003
+(32367, 32354, 32450)
+Assignment Part 2 (b) - round  1004
+(31943, 32483, 32258)
+Assignment Part 2 (b) - round  1005
+(32051, 32712, 33024)
+Assignment Part 2 (b) - round  1006
+(33819, 32446, 32967)
+Assignment Part 2 (b) - round  1007
+(33105, 32518, 32342)
+Assignment Part 2 (b) - round  1008
+(32608, 32446, 32069)
+Assignment Part 2 (b) - round  1009
+(33032, 31928, 33242)
+Assignment Part 2 (b) - round  1010
+(32981, 33604, 33540)
+Assignment Part 2 (b) - round  1011
+(31893, 32654, 32811)
+Assignment Part 2 (b) - round  1012
+(32401, 33942, 32537)
+Assignment Part 2 (b) - round  1013
+(32773, 31747, 33014)
+Assignment Part 2 (b) - round  1014
+(32664, 32285, 33033)
+Assignment Part 2 (b) - round  1015
+(33523, 32540, 32996)
+Assignment Part 2 (b) - round  1016
+(32648, 32794, 33566)
+Assignment Part 2 (b) - round  1017
+(32446, 32932, 31788)
+Assignment Part 2 (b) - round  1018
+(33017, 32354, 32940)
+Assignment Part 2 (b) - round  1019
+(32314, 32909, 32114)
+Assignment Part 2 (b) - round  1020
+(32312, 33215, 33298)
+Assignment Part 2 (b) - round  1021
+(32913, 32633, 32881)
+Assignment Part 2 (b) - round  1022
+(31993, 32918, 32995)
+Assignment Part 2 (b) - round  1023
+(32553, 31861, 32959)
+Assignment Part 2 (c)
+[(50512.07071215786, 30814.085426447713, 12242.807264688887)
+ (38059.426148215505, 26341.293935988626, 12854.53780932268)
+ (10413.694573009232, 27983.040977356264, 43233.73175943814) ...,
+ (32730.19050324928, 32633.747856156682, 32748.3663514487)
+ (50443.35371241721, 59597.401878349876, 28238.530610055688)
+ (24990.096848553207, 43433.02831964384, 44589.041025432685)]
+Assignment Part 2 (d)
+[[32101 34164 32451]
+ [31758 31863 32938]
+ [31785 33537 33598]
+ [32765 33248 32475]
+ [31942 33687 32288]]
